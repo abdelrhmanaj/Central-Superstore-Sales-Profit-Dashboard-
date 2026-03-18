@@ -26,6 +26,7 @@ These metrics provide a quick overview of the company’s overall performance.
 ---
 
 ## Dashboard Visualizations
+![Dashboard](dashboard.png)
 
 ### 1. Sales & Profit by Month
 
